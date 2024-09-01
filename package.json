@@ -1,9 +1,8 @@
 {
   "name": "npm-monorepo-test",
   "private": true,
-  "workspaces": [
-    "packages",
-    "apps",
-    "packages/fizzbuzz"
-  ]
+  "workspaces": ["packages", "apps", "packages/fizzbuzz"],
+  "devDependencies": {
+    "@biomejs/biome": "^1.8.3"
+  }
 }

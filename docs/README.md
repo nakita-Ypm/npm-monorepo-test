@@ -11,3 +11,7 @@ npm init -y -w packages/fizzbuzz
 ```sh
 npm init -y -w apps
 ```
+
+```sh
+npm install --save-dev @biomejs/biome
+```
