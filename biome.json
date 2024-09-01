@@ -7,7 +7,7 @@
   "formatter": {
     "enabled": true,
     "ignore": ["./node_modules/**", "./blog/**"],
-    "include": ["**/*.ts", "**/*.tsx", "**/*.svelte", "**/*.vue", "**/*.json"],
+    "include": ["**/*.ts", "**/*.json"],
     "indentStyle": "space",
     "indentWidth": 2,
     "lineWidth": 120
