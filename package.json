@@ -1,4 +1,9 @@
 {
   "name": "npm-monorepo-test",
-  "private": true
+  "private": true,
+  "workspaces": [
+    "packages",
+    "apps",
+    "packages/fizzbuzz"
+  ]
 }

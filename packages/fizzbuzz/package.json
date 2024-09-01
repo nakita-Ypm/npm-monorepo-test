@@ -1,0 +1,9 @@
+{
+  "name": "fizzbuzz",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "typescript": "^5.5.4"
+  }
+}
